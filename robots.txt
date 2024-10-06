@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rohifewihoke.pages.dev/sitemap.xml
